@@ -5,7 +5,7 @@ There are currently three notebooks available:
 1. Catapult_GD_CIFAR.ipynb
 2. Catapult_SGD_CIFAR.ipynb
 3. Catapult_GD_index_2.ipynb
-4. 
+   
 Notebooks 1 and 2 correspond to the experiments discussed in Section 3: Catapults in Optimization.
 Notebook 3 demonstrates how catapults enhance generalization by promoting AGOP alignment in the index-2 regression task.
 
