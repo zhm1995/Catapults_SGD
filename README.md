@@ -11,7 +11,9 @@ Notebooks 1, 2 and 3 correspond to the experiments discussed in Section 3: Catap
 
 Notebook 4 demonstrates how catapults enhance generalization by promoting AGOP alignment in the index-2 regression task.
 
-Additional notebooks for the remaining experiments will be added in due course.
+Additional notebooks covering the remaining experiments will be made available soon.
+
+If you have any questions about reproducing the results presented in the paper, feel free to contact me via email.
 
 ## Requirements: 
 Python 3
